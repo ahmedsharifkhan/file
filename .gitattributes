@@ -1,2 +1,3 @@
 *USB[[:space:]]TV[[:space:]]Stick[[:space:]]UTV380[[:space:]]Gadmei.iso filter=lfs diff=lfs merge=lfs -text
 *.iso filter=lfs diff=lfs merge=lfs -text
+*.exe filter=lfs diff=lfs merge=lfs -text
